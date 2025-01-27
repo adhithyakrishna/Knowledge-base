@@ -1,0 +1,25 @@
+{
+  "seekSeconds": 10,
+  "verticalPlayerHeight": 40,
+  "horizontalPlayerWidth": 40,
+  "defaultSplitMode": "Vertical",
+  "pauseOnTimestampInsert": true,
+  "displayProgressBar": false,
+  "displayTimestamp": true,
+  "timestampOffsetSeconds": 6,
+  "backgroundColor": "#000000",
+  "progressBarColor": "#FF0000",
+  "timestampTemplate": "[{ts}]({link})\n",
+  "mediaData": {
+    "WoYVmlOxwbA": {
+      "mediaLink": "https://www.youtube.com/watch?v=WoYVmlOxwbA",
+      "lastUpdated": "2025-01-20T20:19:34.301Z",
+      "lastTimestampSeconds": 547
+    },
+    "WzjApwk6VjY": {
+      "mediaLink": "https://www.youtube.com/watch?v=WzjApwk6VjY",
+      "lastUpdated": "2025-01-20T18:16:58.654Z",
+      "lastTimestampSeconds": 950
+    }
+  }
+}

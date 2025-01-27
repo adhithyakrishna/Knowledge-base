@@ -1,0 +1,1 @@
+https://www.youtube.com/watch?v=aDRYV4mjlHA - Vibha jha picking up the stock - 37 minutes

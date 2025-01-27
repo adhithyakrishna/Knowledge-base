@@ -1,0 +1,41 @@
+
+| Security Name                             | Identifier | CUSIP     | Classification                  | Shares / Quantity | Market Value   | Weighting ![Descending sort](https://www.ftportfolios.com/Common/Images/arrow_sortdesc.gif) |
+| ----------------------------------------- | ---------- | --------- | ------------------------------- | ----------------- | -------------- | ------------------------------------------------------------------------------------------- |
+| Broadcom Inc.                             | **AVGO**   | 11135F101 | Semiconductors                  | 167,953           | $40,355,746.84 | 11.42%                                                                                      |
+| NVIDIA Corporation                        | **NVDA**   | 67066G104 | Semiconductors                  | 229,088           | $33,726,335.36 | 9.54%                                                                                       |
+| QUALCOMM Incorporated                     | QCOM       | 747525103 | Semiconductors                  | 155,957           | $27,192,662.52 | 7.69%                                                                                       |
+| Intel Corporation                         | INTC       | 458140100 | Semiconductors                  | 1,240,648         | $26,760,777.36 | 7.57%                                                                                       |
+| Applied Materials, Inc.                   | **AMAT**   | 038222105 | Production Technology Equipment | 138,639           | $26,438,457.30 | 7.48%                                                                                       |
+| Marvell Technology, Inc.                  | MRVL       | 573874104 | Semiconductors                  | 146,798           | $18,505,355.88 | 5.24%                                                                                       |
+| Micron Technology, Inc.                   | **MU**     | 595112103 | Semiconductors                  | 142,043           | $14,891,788.12 | 4.21%                                                                                       |
+| Lam Research Corporation                  | **LRCX**   | 512807306 | Production Technology Equipment | 166,537           | $13,527,800.51 | 3.83%                                                                                       |
+| Analog Devices, Inc.                      | **ADI**    | 032654105 | Semiconductors                  | 58,201            | $13,290,198.35 | 3.76%                                                                                       |
+| Texas Instruments Incorporated            | TXN        | 882508104 | Semiconductors                  | 63,774            | $12,793,702.14 | 3.62%                                                                                       |
+| KLA Corporation                           | **KLAC**   | 482480100 | Production Technology Equipment | 16,705            | $12,711,669.75 | 3.60%                                                                                       |
+| NXP Semiconductors N.V.                   | NXPI       | N6596X109 | Semiconductors                  | 53,317            | $11,723,341.96 | 3.32%                                                                                       |
+| Skyworks Solutions, Inc.                  | SWKS       | 83088M102 | Semiconductors                  | 124,733           | $11,540,297.16 | 3.27%                                                                                       |
+| Amkor Technology, Inc.                    | AMKR       | 031652100 | Production Technology Equipment | 410,959           | $10,643,838.10 | 3.01%                                                                                       |
+| Microchip Technology Incorporated         | MCHP       | 595017104 | Semiconductors                  | 166,389           | $9,911,792.73  | 2.80%                                                                                       |
+| ON Semiconductor Corporation              | ON         | 682189105 | Semiconductors                  | 175,565           | $9,877,286.90  | 2.79%                                                                                       |
+| Avnet, Inc.                               | AVT        | 053807103 | Semiconductors                  | 138,343           | $7,503,724.32  | 2.12%                                                                                       |
+| Advanced Micro Devices, Inc.              | **AMD**    | 007903107 | Semiconductors                  | 57,735            | $7,103,714.40  | 2.01%                                                                                       |
+| Coherent Corp.                            | COHR       | 19247G107 | Production Technology Equipment | 62,345            | $6,718,297.20  | 1.90%                                                                                       |
+| Qorvo, Inc.                               | QRVO       | 74736K101 | Semiconductors                  | 72,468            | $6,563,426.76  | 1.86%                                                                                       |
+| Teradyne, Inc.                            | TER        | 880770102 | Production Technology Equipment | 48,729            | $6,423,944.07  | 1.82%                                                                                       |
+| Monolithic Power Systems, Inc.            | MPWR       | 609839105 | Semiconductors                  | 6,572             | $4,592,447.88  | 1.30%                                                                                       |
+| Cirrus Logic, Inc.                        | CRUS       | 172755100 | Semiconductors                  | 36,123            | $3,651,312.84  | 1.03%                                                                                       |
+| Semtech Corporation                       | SMTC       | 816850101 | Semiconductors                  | 39,479            | $2,996,850.89  | 0.85%                                                                                       |
+| Rambus Inc.                               | RMBS       | 750917106 | Semiconductors                  | 44,807            | $2,862,943.36  | 0.81%                                                                                       |
+| MACOM Technology Solutions Holdings, Inc. | MTSI       | 55405Y100 | Semiconductors                  | 15,869            | $2,317,350.07  | 0.66%                                                                                       |
+| Lattice Semiconductor Corporation         | LSCC       | 518415104 | Semiconductors                  | 37,643            | $2,239,758.50  | 0.63%                                                                                       |
+| Onto Innovation Inc.                      | ONTO       | 683344105 | Production Technology Equipment | 8,103             | $1,758,675.12  | 0.50%                                                                                       |
+| FormFactor, Inc.                          | FORM       | 346375108 | Semiconductors                  | 35,482            | $1,521,468.16  | 0.43%                                                                                       |
+| Impinj, Inc.                              | PI         | 453204109 | Production Technology Equipment | 10,323            | $1,439,748.81  | 0.41%                                                                                       |
+| Axcelis Technologies, Inc.                | ACLS       | 054540208 | Production Technology Equipment | 15,830            | $1,123,296.80  | 0.32%                                                                                       |
+| US Dollar                                 | $USD       |           | Other                           | 729,879           | $729,878.89    | 0.21%                                                                                       |
+
+# FTXL - Summary deep dive 
+- Not all stocks are in the list
+- The first two stocks form 20% of the list.
+- LCRX is 3.9%
+- Includes more small cap stocks from what I can tell
