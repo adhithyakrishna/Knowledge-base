@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "46e664b7b388d192",
+        "id": "b729821e0cbe5e2f",
         "type": "tabs",
         "children": [
           {
-            "id": "888724fe14e85d68",
+            "id": "d4ea01ecbdb8b08a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Finance/Journal/2025-02-02.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2025-02-02"
             }
           }
         ]
@@ -174,53 +178,52 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "2f4fe9de3da456e4",
+  "active": "d4ea01ecbdb8b08a",
   "lastOpenFiles": [
+    "Finance/Journal/2025-02-02.md",
+    "Finance/Journal/Untitled.md",
+    "Finance/Journal/assets",
+    "Finance/Journal/assets/2025-02-02-202502021657.webp",
+    "Finance/ETF/Semiconductor/Research/SMH - VanEck Semiconductor.md",
+    "Finance/Journal",
+    "Finance/ETF/Semiconductor/Research/SOXQ - Invesco PHLX Semiconductor ETF.md",
     "Finance/ETF/Semiconductor/7 Best Semiconductor ETFs to Buy in 2025.md 11-45-38-979.md",
+    "Finance/ETF/Semiconductor/Research/assets/7 Best Semiconductor ETFs to Buy in 2025-202501260035.webp",
+    "Finance/ETF/Semiconductor/Research/assets/7 Best Semiconductor ETFs to Buy in 2025-202501260033.webp",
+    "Finance/ETF/Semiconductor/Research/assets/Best growth semiconductor stocks-202501252323.webp",
+    "Finance/ETF/Semiconductor/Research/XSD - SPDR® S&P® Semiconductor ETF.md",
+    "Finance/ETF/Semiconductor/Research/PSI - Invesco Semiconductors ETF.md",
     "Finance/ETF/Semiconductor/Research/QQQM.md",
     "Finance/ETF/Semiconductor/Research/XLK - The Technology SelectSector SPDR® Fund.md",
     "Finance/ETF/Semiconductor/Research/XNTK - SPDR® NYSE Technology ETF.md",
     "Finance/ETF/Semiconductor/Best growth semiconductor stocks.md",
     "QQQM VGT XLK MGK VuG IYW XNTK SMH SOXX SOXL TQQQ ARKK.md",
-    "Finance/ETF/Semiconductor/Research/SOXQ - Invesco PHLX Semiconductor ETF.md",
     "Finance/ETF/Semiconductor/Research/SMHX - VanEck Fabless Semiconductor ETF.md",
     "Finance/ETF/Semiconductor/Research/SMH ETF Question & Answer  VanEck.md",
-    "Finance/ETF/Semiconductor/Research/assets/7 Best Semiconductor ETFs to Buy in 2025-202501260035.webp",
     "Finance/ETF/Semiconductor/7 Best Semiconductor ETFs to Buy in 2025.md",
     "Finance/ETF/Semiconductor/ETF Screener.md",
     "Finance/ETF/Semiconductor/ETF screener.md",
     "Finance/ETF/Semiconductor/Research/CHPS - Xtrackers Semiconductor Select Equity ETF.md",
     "Finance/Stock/Luck in investing.md",
     "Finance/ETF/Semiconductor/Summary.md",
-    "Finance/ETF/Semiconductor/Research/XSD - SPDR® S&P® Semiconductor ETF.md",
     "Finance/Glossary/Standard deviation.md",
     "Finance/Glossary/Total Returns Swap.md",
     "2025-01-25.md",
-    "Finance/ETF/Semiconductor/Research/assets/Best growth semiconductor stocks-202501252323.webp",
-    "Finance/ETF/Semiconductor/Research/assets/7 Best Semiconductor ETFs to Buy in 2025-202501260033.webp",
     "Finance/ETF/Semiconductor/Research/FTXL - First Trust Nasdaq Semiconductor ETF (FTXL).md",
     "Finance/LETF/LETF Summary.md",
-    "Finance/ETF/Semiconductor/Research/PSI - Invesco Semiconductors ETF.md",
-    "Finance/ETF/Semiconductor/Research/SOXX - I share semiconductor.md",
-    "Finance/ETF/Semiconductor/Research/SMH - VanEck Semiconductor.md",
     "Finance/ETF/Semiconductor/Research/assets",
-    "SMH - VanEck Semiconductor ETF.md",
     "Clippings",
-    "Finance/ETF/Semiconductor/Research/Semiconductor ETF.md",
     "Finance/ETF/Semiconductor/Research/Best growth semiconductor stocks",
     "Finance/ETF/Semiconductor/Research",
     "Finance/Books",
     "Finance/ETF/Smallcap",
     "Finance/ETF/Semiconductor",
     "Finance/ETF",
-    "Finance/LETF/Articles",
-    "Finance/Glossary/assets",
     "Finance/Glossary/assets/Total Returns Swap-202501191856.webp",
     "Finance/LETF/assets/Pasted image 20250119013734.png",
     "Finance/LETF/assets/Pasted image 20250119014044.png",
     "Finance/LETF/assets/Pasted image 20250119014126.png",
     "Finance/LETF/assets/Leveraged ETF-202501190203.webp",
-    "driverguide.webp",
-    "driverguide 3.webp"
+    "driverguide.webp"
   ]
 }
